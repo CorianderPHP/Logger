@@ -1,6 +1,6 @@
 <?php
 
-namespace CorianderCore\Modules\Logger;
+namespace CorianderCore\Modules;
 
 use DateTime;
 use DateTimeZone;
